@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.LavaFlow" parent="android:style/Theme.Material.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#211329</item>
+        <item name="android:navigationBarColor">#160E1C</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowBackground">#170D26</item>
+        <item name="android:colorAccent">#F3C86A</item>
+    </style>
+</resources>
